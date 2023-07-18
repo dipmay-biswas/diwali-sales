@@ -1,4 +1,4 @@
-# diwali-sales
+# diwali-sales-analysis
 
 •Developed Exploratory Data Analysis (EDA) of Diwali sales using Jupyter notebook to improve customers experience across different states, occupation, gender and age groups.
 
